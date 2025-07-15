@@ -18,7 +18,7 @@ ColorPicker는 Windows Forms 기반의 간단한 색상 추출 도구입니다.
 
 ## 📸 스크린샷
 
-![앱 실행 화면](./ColorPicker.png)
+> (여기에 앱 실행 화면을 캡처해서 첨부하면 좋습니다)
 
 ## 🚀 실행 방법
 
@@ -27,14 +27,14 @@ ColorPicker는 Windows Forms 기반의 간단한 색상 추출 도구입니다.
 
 ## 📂 프로젝트 구조
 
-\`\`\`
+```
 ColorPicker/
 ├── Form1.cs                # 메인 폼 로직
 ├── Program.cs              # 앱 진입점
 ├── Properties/             # 리소스 및 설정 파일
 ├── bin/, obj/              # 빌드 산출물 (Git에서 제외됨)
 └── ColorPicker.sln         # 솔루션 파일
-\`\`\`
+```
 
 ## 📄 라이선스
 
