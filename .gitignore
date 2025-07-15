@@ -1,0 +1,77 @@
+# Build results
+bin/
+obj/
+[Bb]uild/
+[Ll]og/
+*.log
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.VC.db
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# VS Code directory
+.vscode/
+
+# Rider IDE
+.idea/
+
+# VS temporary files
+*.vspscc
+.vs/
+
+# NuGet Packages
+*.nupkg
+packages/
+*.snupkg
+
+# ReSharper
+_ReSharper*/
+*.DotSettings.user
+
+# StyleCop
+StyleCopReport.xml
+
+# DotCover
+*.dotCover
+
+# Test results
+TestResults/
+*.VisualState.xml
+
+# NCrunch
+*.ncrunch*
+.*crunch*.local.xml
+nCrunchTemp_*/
+
+# Backup & patch files
+*.bak
+*.orig
+*.patch
+
+# Generated files
+*.designer.cs
+
+# Publish files
+publish/
+
+# Local config
+appsettings.Local.json
+secrets.json
+
+# OS-specific
+.DS_Store
+*.swp
+*.swo
+*.tmp
+Thumbs.db
+desktop.ini
