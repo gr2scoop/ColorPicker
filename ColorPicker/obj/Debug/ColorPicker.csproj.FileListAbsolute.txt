@@ -1,0 +1,10 @@
+C:\Users\DKSUSER\Desktop\works\그외\dev\ColorPicker\ColorPicker\bin\Debug\ColorPicker.exe.config
+C:\Users\DKSUSER\Desktop\works\그외\dev\ColorPicker\ColorPicker\bin\Debug\ColorPicker.exe
+C:\Users\DKSUSER\Desktop\works\그외\dev\ColorPicker\ColorPicker\bin\Debug\ColorPicker.pdb
+C:\Users\DKSUSER\Desktop\works\그외\dev\ColorPicker\ColorPicker\obj\Debug\ColorPicker.csproj.AssemblyReference.cache
+C:\Users\DKSUSER\Desktop\works\그외\dev\ColorPicker\ColorPicker\obj\Debug\ColorPicker.Properties.Resources.resources
+C:\Users\DKSUSER\Desktop\works\그외\dev\ColorPicker\ColorPicker\obj\Debug\ColorPicker.csproj.GenerateResource.cache
+C:\Users\DKSUSER\Desktop\works\그외\dev\ColorPicker\ColorPicker\obj\Debug\ColorPicker.csproj.CoreCompileInputs.cache
+C:\Users\DKSUSER\Desktop\works\그외\dev\ColorPicker\ColorPicker\obj\Debug\ColorPicker.exe
+C:\Users\DKSUSER\Desktop\works\그외\dev\ColorPicker\ColorPicker\obj\Debug\ColorPicker.pdb
+C:\Users\DKSUSER\Desktop\works\그외\dev\ColorPicker\ColorPicker\obj\Debug\ColorPicker.Form1.resources
